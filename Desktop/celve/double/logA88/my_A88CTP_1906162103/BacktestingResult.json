@@ -1,0 +1,43 @@
+{
+    "timeframeMap": {
+        "signalPeriod": "5m",
+        "envPeriod": "30m"
+    },
+    "symbolList": [
+        "A88:CTP"
+    ],
+    "barPeriod": 120,
+    "lot": 10,
+    "envPeriod": 13,
+    "longenvPeriod": 25,
+    "MIfactor": 0.05,
+    "bullPeriod": 30,
+    "bearPeriod": 30,
+    "fastPeriod": 5,
+    "slowPeriod": 25,
+    "maPeriod": 30,
+    "stoplossPct": 0.03,
+    "startDate": "2016-09-01",
+    "endDate": "2019-01-04",
+    "totalDays": 570,
+    "profitDays": 256,
+    "lossDays": 247,
+    "endBalance": 931466.8875000003,
+    "maxDrawdown": -162109.73649999965,
+    "maxDdPercent": -14.980679309511864,
+    "totalNetPnl": -68533.11249999967,
+    "dailyNetPnl": -120.2335307017538,
+    "totalCommission": 51346.27249999999,
+    "dailyCommission": 90.08117982456139,
+    "totalSlippage": 53.84,
+    "dailySlippage": 0.0944561403508772,
+    "totalTurnover": 102692545.0,
+    "dailyTurnover": 180162.3596491228,
+    "totalTradeCount": 1541,
+    "dailyTradeCount": 2.7035087719298247,
+    "totalReturn": -6.8533112499999715,
+    "annualizedReturn": -2.8856047368420934,
+    "dailyReturn": -0.012023353070175394,
+    "returnStd": 0.46500772544515145,
+    "sharpeRatio": -0.4005632049384409
+}
